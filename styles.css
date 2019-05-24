@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css?family=Comfortaa&display=swap');
+
+body {
+  font-family: 'Comfortaa', cursive;
+  background: #231123;
+}
+
+div {
+  text-align: center;
+  margin: 25vh 15vw 0vh 15vw;
+  color: #52528c;
+}
+
+div h1 {
+  font-size: 3rem;
+}
+
+div button {
+  font-family: 'Comfortaa', cursive;
+  width: 22vw;
+  height: 15vh;
+  border-color: #231123;
+  background: #231123;
+  color: #7c9eb2;
+  font-size: 1.5rem;
+  margin-top: 10vh;
+}
